@@ -26,3 +26,10 @@ body {
     padding: 0.5em;
     font-weight: bold;
 }
+
+p{
+    color: darkcyan;
+    font-size: medium;
+    padding: 0.2em;
+    margin-left: 8px;
+}
