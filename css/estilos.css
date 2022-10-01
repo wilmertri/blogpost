@@ -20,11 +20,12 @@ body {
 }
 
 #cabecera {
-    background: #33A;
+    background: rgb(24, 146, 94);
     color: white;
     margin: 0;
     padding: 0.5em;
     font-weight: bold;
+    font-size: 0.1em;
 }
 
 p{
